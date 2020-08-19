@@ -9,3 +9,9 @@ https://www.kaggle.com/svetakostukovich/identifying-good-versus-bad-bank-custome
 https://www.kaggle.com/ntnu-testimon/banksim1
 https://www.kaggle.com/sanokei/eda-japanese-banks/comments#920754
 https://www.kaggle.com/ntnu-testimon/banksim1/kernels
+
+מודלים לחיזוי
+--------------------------------------------
+https://www.kaggle.com/itsmesunil/bank-loan-modelling/data#
+https://www.kaggle.com/paulinan/bank-customer-segmentation
+---------------------------------------------
